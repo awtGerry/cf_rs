@@ -1,5 +1,5 @@
-mod next_round;
+mod domino_piling;
 
 fn main() {
-    next_round::main();
+    domino_piling::main();
 }
