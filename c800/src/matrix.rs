@@ -11,7 +11,7 @@ pub fn beauty() {
             .map(|e| e.parse().unwrap())
             .collect();
         for j in 0..5 {
-            if *_vec.get(j).unwrap() == 1 {
+            if _vec[j] == 1 {
                 n1 = ((i as i8) -2).abs();
                 n2 = ((j as i8) -2).abs();
             }
