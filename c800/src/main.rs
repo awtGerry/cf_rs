@@ -1,5 +1,5 @@
-mod domino_piling;
+mod matrix;
 
 fn main() {
-    domino_piling::main();
+    matrix::beauty();
 }
