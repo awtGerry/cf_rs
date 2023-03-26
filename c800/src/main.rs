@@ -1,5 +1,5 @@
-mod capitalization;
+mod boy_girl;
 
 fn main() {
-    capitalization::main();
+    boy_girl::main();
 }
