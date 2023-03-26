@@ -1,5 +1,5 @@
-mod matrix;
+mod capitalization;
 
 fn main() {
-    matrix::beauty();
+    capitalization::main();
 }
