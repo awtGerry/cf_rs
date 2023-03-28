@@ -1,5 +1,5 @@
-mod boy_girl;
+mod bear;
 
 fn main() {
-    boy_girl::main();
+    bear::main();
 }
