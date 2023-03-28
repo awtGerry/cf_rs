@@ -1,5 +1,5 @@
-mod bear;
+mod soldier_bananas;
 
 fn main() {
-    bear::main();
+    soldier_bananas::main();
 }
