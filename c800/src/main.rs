@@ -1,5 +1,5 @@
-mod soldier_bananas;
+mod word;
 
 fn main() {
-    soldier_bananas::main();
+    word::main();
 }
