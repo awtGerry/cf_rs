@@ -1,5 +1,5 @@
-mod word;
+mod subtraction;
 
 fn main() {
-    word::main();
+    subtraction::main();
 }
