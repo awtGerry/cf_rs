@@ -1,5 +1,5 @@
-mod subtraction;
+mod lucky_numbers;
 
 fn main() {
-    subtraction::main();
+    lucky_numbers::main();
 }
