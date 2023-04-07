@@ -1,5 +1,5 @@
-mod lucky_numbers;
+mod anton_danik;
 
 fn main() {
-    lucky_numbers::main();
+    anton_danik::main();
 }
