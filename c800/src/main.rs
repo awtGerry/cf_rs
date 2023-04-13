@@ -1,5 +1,4 @@
-mod anton_danik;
-
+mod trim;
 fn main() {
-    anton_danik::main();
+    trim::main();
 }
